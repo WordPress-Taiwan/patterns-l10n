@@ -1,0 +1,151 @@
+# Translation of Patterns - Patterns in Chinese (Taiwan)
+# This file is distributed under the same license as the Patterns - Patterns package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Patterns - Patterns\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-06-24 21:16+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.4.4\n"
+
+#. Found in the '3 Column Blog posts with Featured image, Date and Read More'
+#. pattern.
+#: https://wordpress.org/patterns/pattern/3-column-blog-posts-with-featured-image-date-and-read-more/
+msgid "clock--v1"
+msgstr "時鐘—v1"
+
+#. Found in the '3 Column Blog posts with Featured image, Date and Read More'
+#. pattern.
+#: https://wordpress.org/patterns/pattern/3-column-blog-posts-with-featured-image-date-and-read-more/
+msgid "Blogs / News"
+msgstr "部落格 / 最新消息"
+
+#. Found in the '3 Column Blog posts with Featured image, Date and Read More'
+#. pattern.
+#: https://wordpress.org/patterns/pattern/3-column-blog-posts-with-featured-image-date-and-read-more/
+msgid "pagination"
+msgstr "分頁"
+
+#. Found in the '3 Column Blog posts with Featured image, Date and Read More'
+#. pattern.
+#: https://wordpress.org/patterns/pattern/3-column-blog-posts-with-featured-image-date-and-read-more/
+msgid "custom"
+msgstr "自訂"
+
+#. Found in the 'Stylish Minimal Meet Our Team section' pattern.
+#: https://wordpress.org/patterns/pattern/stylish-minimal-meet-our-team-section/
+#: https://wordpress.org/patterns/pattern/3-column-blog-posts-with-featured-image-date-and-read-more/
+msgid "3 column"
+msgstr "3 欄"
+
+#. Found in the '3 Column Blog posts with Featured image, Date and Read More'
+#. pattern.
+#: https://wordpress.org/patterns/pattern/3-column-blog-posts-with-featured-image-date-and-read-more/
+msgid "Pattern to display blog posts."
+msgstr "顯示部落格文章的區塊版面配置。"
+
+#. Found in the '3 Column Blog posts with Featured image, Date and Read More'
+#. pattern.
+#: https://wordpress.org/patterns/pattern/3-column-blog-posts-with-featured-image-date-and-read-more/
+msgid "3 Column Blog posts with Featured image, Date and Read More"
+msgstr "附有精選圖片、日期和進一步了解的 3 欄文章版面配置"
+
+#. Found in the '3 Column Blog posts with Featured image, Date and Read More'
+#. pattern.
+#: https://wordpress.org/patterns/pattern/3-column-blog-posts-with-featured-image-date-and-read-more/
+#: https://wordpress.org/patterns/pattern/post-meta-details-date-author-category-last-updated/
+msgid "date"
+msgstr "日期"
+
+#. Found in the '3 Column Blog posts with Featured image, Date and Read More'
+#. pattern.
+#: https://wordpress.org/patterns/pattern/3-column-blog-posts-with-featured-image-date-and-read-more/
+#: https://wordpress.org/patterns/pattern/about-us-7/
+#: https://wordpress.org/patterns/pattern/header-with-a-heading-and-a-button/
+msgid "read more"
+msgstr "進一步了解"
+
+#. Found in the '3 Column Blog posts with Featured image, Date and Read More'
+#. pattern.
+#: https://wordpress.org/patterns/pattern/3-column-blog-posts-with-featured-image-date-and-read-more/
+#: https://wordpress.org/patterns/pattern/three-columns-layout/
+#: https://wordpress.org/patterns/pattern/post-author-box-with-avatar-and-bio-dynamic/
+#: https://wordpress.org/patterns/pattern/post-meta-details-date-author-category-last-updated/
+#: https://wordpress.org/patterns/pattern/next-previous-post-navigation-for-block-themes/
+#: https://wordpress.org/patterns/pattern/recipe-details/
+#: https://wordpress.org/patterns/pattern/hero-section-blog-page-blog-list/
+#: https://wordpress.org/patterns/pattern/blog-sidebar/
+msgid "post"
+msgstr "文章"
+
+#. Found in the 'Responsive Pros Cons Comparison Table Section' pattern.
+#: https://wordpress.org/patterns/pattern/responsive-pros-cons-comparison-table-section/
+#: https://wordpress.org/patterns/pattern/modern-minimalist-features-section/
+#: https://wordpress.org/patterns/pattern/stylish-minimal-meet-our-team-section/
+#: https://wordpress.org/patterns/pattern/responsive-stylish-3-columns-pricing-table/
+#: https://wordpress.org/patterns/pattern/3-column-blog-posts-with-featured-image-date-and-read-more/
+#: https://wordpress.org/patterns/pattern/minimalists-services-columns/
+#: https://wordpress.org/patterns/pattern/text-and-links-with-image-on-the-side/
+msgid "responsive"
+msgstr "回應式"
+
+#. Found in the '3 Column Blog posts with Featured image, Date and Read More'
+#. pattern.
+#: https://wordpress.org/patterns/pattern/3-column-blog-posts-with-featured-image-date-and-read-more/
+#: https://wordpress.org/patterns/pattern/two-column-layout-section-for-posts/
+#: https://wordpress.org/patterns/pattern/recipe-details/
+#: https://wordpress.org/patterns/pattern/fullwidth-posts-with-uppercase-titles/
+#: https://wordpress.org/patterns/pattern/hero-section-blog-page-blog-list/
+#: https://wordpress.org/patterns/pattern/blog-posts-with-the-featured-images-heading-and-call-to-action-button-collection-1/
+#: https://wordpress.org/patterns/pattern/two-columns-of-three-featured-posts/
+#: https://wordpress.org/patterns/pattern/blog-sidebar/
+#: https://wordpress.org/patterns/pattern/full-width-photo-grid/
+#: https://wordpress.org/patterns/pattern/flat-archive/
+#: https://wordpress.org/patterns/pattern/listicle-pattern/
+#: https://wordpress.org/patterns/pattern/3-item-listicle/
+msgid "blog"
+msgstr "部落格"
+
+#. Found in the '3 Column Blog posts with Featured image, Date and Read More'
+#. pattern.
+#: https://wordpress.org/patterns/pattern/3-column-blog-posts-with-featured-image-date-and-read-more/
+#: https://wordpress.org/patterns/pattern/creative-layout/
+#: https://wordpress.org/patterns/pattern/two-columns-of-three-featured-posts/
+#: https://wordpress.org/patterns/pattern/gallery-grid-with-info/
+#: https://wordpress.org/patterns/pattern/full-width-photo-grid/
+#: https://wordpress.org/patterns/pattern/our-services-3/
+#: https://wordpress.org/patterns/pattern/grid-statistics-pattern/
+#: https://wordpress.org/patterns/pattern/section-with-three-grid-items-and-cover-image/
+#: https://wordpress.org/patterns/pattern/text-and-links-with-image-on-the-side/
+#: https://wordpress.org/patterns/pattern/image-and-text-layout/
+#: https://wordpress.org/patterns/pattern/gallery-2/
+#: https://wordpress.org/patterns/pattern/poster-gallery/
+#: https://wordpress.org/patterns/pattern/team-column-grid/
+msgid "grid"
+msgstr "格狀"
+
+#. Found in the '3 Column Blog posts with Featured image, Date and Read More'
+#. pattern.
+#: https://wordpress.org/patterns/pattern/3-column-blog-posts-with-featured-image-date-and-read-more/
+#: https://wordpress.org/patterns/pattern/page-header-cover-title-with-split-overflowed-text/
+#: https://wordpress.org/patterns/pattern/secondary-call-to-action/
+#: https://wordpress.org/patterns/pattern/cover-with-a-quote-image-and-the-quote-author-collection-1/
+#: https://wordpress.org/patterns/pattern/cover-with-a-gradient-overlay-over-image-with-a-text-content-heading-and-a-paragraph-collection-1/
+#: https://wordpress.org/patterns/pattern/gallery-of-images-heading-with-a-paragraph-and-call-to-action-button-collection-1/
+#: https://wordpress.org/patterns/pattern/404-error/
+#: https://wordpress.org/patterns/pattern/gallery-view/
+#: https://wordpress.org/patterns/pattern/dark-ski-product-listing/
+#: https://wordpress.org/patterns/pattern/footer-with-logo-links-address-and-social/
+#: https://wordpress.org/patterns/pattern/two-columns-with-image-plus-paragraph-and-bullets-description/
+#: https://wordpress.org/patterns/pattern/header-with-text-cta-button-and-image-on-the-left/
+#: https://wordpress.org/patterns/pattern/header-text-cta-and-image/
+#: https://wordpress.org/patterns/pattern/hero-section-with-two-column-light-foreground-text-over-dark-background/
+#: https://wordpress.org/patterns/pattern/main-title-with-semi-covered-background-image-illustration-and-description-with-a-button/
+msgid "heading"
+msgstr "標題"
