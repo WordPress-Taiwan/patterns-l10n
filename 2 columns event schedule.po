@@ -1,0 +1,117 @@
+# Translation of Patterns - Patterns in Chinese (Taiwan)
+# This file is distributed under the same license as the Patterns - Patterns package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Patterns - Patterns\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-06-24 20:15+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.4.4\n"
+
+#. Found in the '2 columns event schedule' pattern.
+#: https://wordpress.org/patterns/pattern/2-columns-event-schedule/
+msgid "5:00 PM to 7:00 PM"
+msgstr "上午 5:00 到下午 7:00"
+
+#. Found in the '2 columns event schedule' pattern.
+#: https://wordpress.org/patterns/pattern/2-columns-event-schedule/
+msgid "Floating Toys"
+msgstr "水上漂浮玩具"
+
+#. Found in the '2 columns event schedule' pattern.
+#: https://wordpress.org/patterns/pattern/2-columns-event-schedule/
+msgid "2:00 PM to 5:00 PM"
+msgstr "下午 2:00 到下午 5:00"
+
+#. Found in the '2 columns event schedule' pattern.
+#: https://wordpress.org/patterns/pattern/2-columns-event-schedule/
+msgid "Water Vulcano"
+msgstr "水上龍捲風"
+
+#. Found in the '2 columns event schedule' pattern.
+#: https://wordpress.org/patterns/pattern/2-columns-event-schedule/
+msgid "12:00 PM to 2:00 PM"
+msgstr "中午 12:00 到下午 2:00"
+
+#. Found in the '2 columns event schedule' pattern.
+#: https://wordpress.org/patterns/pattern/2-columns-event-schedule/
+msgid "Water Cascades"
+msgstr "水上瀑布"
+
+#. Found in the '2 columns event schedule' pattern.
+#: https://wordpress.org/patterns/pattern/2-columns-event-schedule/
+msgid "10:00 AM to 12:00 PM"
+msgstr "上午 10:00 到中午 12:00"
+
+#. Found in the '2 columns event schedule' pattern.
+#: https://wordpress.org/patterns/pattern/2-columns-event-schedule/
+msgid "Wave Ball"
+msgstr "造浪球"
+
+#. Found in the '2 columns event schedule' pattern.
+#: https://wordpress.org/patterns/pattern/2-columns-event-schedule/
+msgid "Time"
+msgstr "時間"
+
+#. Found in the '2 columns event schedule' pattern.
+#: https://wordpress.org/patterns/pattern/2-columns-event-schedule/
+msgid "Activities"
+msgstr "活動"
+
+#. Found in the '2 columns event schedule' pattern.
+#: https://wordpress.org/patterns/pattern/2-columns-event-schedule/
+msgid "<strong>Welcome to Amusement Park</strong>"
+msgstr "<strong>歡迎來到遊樂園</strong>"
+
+#. Found in the '2 columns event schedule' pattern.
+#: https://wordpress.org/patterns/pattern/2-columns-event-schedule/
+msgid "2 columns event schedule for a large venue like resort, amusement park, hotels etc.."
+msgstr "適合用於度假村、遊樂園、飯店等大型場所的欄活動時程表版面配置"
+
+#. Found in the '2 columns event schedule' pattern.
+#: https://wordpress.org/patterns/pattern/2-columns-event-schedule/
+msgid "2 columns event schedule"
+msgstr "2 欄活動時程表"
+
+#. Found in the '2 columns event schedule' pattern.
+#: https://wordpress.org/patterns/pattern/2-columns-event-schedule/
+#: https://wordpress.org/patterns/pattern/feature-natural-jam/
+#: https://wordpress.org/patterns/pattern/posts-with-category-section-design/
+#: https://wordpress.org/patterns/pattern/team-members/
+#: https://wordpress.org/patterns/pattern/image-content-section/
+msgid "<strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+msgstr "<strong>虛設內容</strong>&nbsp;只是關於印刷和排版行業的虛設內容。自從 1500 年代以來，虛設內容一直是該行業的標準虛擬內容，當時一位不知名的印刷工人將一組文字打亂，製作了一本樣本書。"
+
+#. Found in the 'Simple FAQ Section' pattern.
+#: https://wordpress.org/patterns/pattern/simple-faq-section/
+#: https://wordpress.org/patterns/pattern/text-image-button-pattern/
+#: https://wordpress.org/patterns/pattern/overlay-text-with-dark-gradient-background-image/
+#: https://wordpress.org/patterns/pattern/2-columns-event-schedule/
+#: https://wordpress.org/patterns/pattern/home-page/
+#: https://wordpress.org/patterns/pattern/hosting-website-features-banner/
+#: https://wordpress.org/patterns/pattern/ecommerce-featured-category-banner/
+#: https://wordpress.org/patterns/pattern/about-yourself/
+#: https://wordpress.org/patterns/pattern/simple-footer/
+#: https://wordpress.org/patterns/pattern/author-bio-with-image-header-description-social-links-and-button/
+#: https://wordpress.org/patterns/pattern/dr-cta-section/
+#: https://wordpress.org/patterns/pattern/author-bio/
+#: https://wordpress.org/patterns/pattern/full-page-with-header-center-logo/
+#: https://wordpress.org/patterns/pattern/team-section/
+#: https://wordpress.org/patterns/pattern/gallery-with-full-width-header/
+#: https://wordpress.org/patterns/pattern/store-collection-blocks/
+#: https://wordpress.org/patterns/pattern/featured-services/
+#: https://wordpress.org/patterns/pattern/meet-our-consultants/
+#: https://wordpress.org/patterns/pattern/testimonial-customer-client-area/
+#: https://wordpress.org/patterns/pattern/our-team-client-slider-testimonial-section-design-with-title-team-client-details-and-image/
+#: https://wordpress.org/patterns/pattern/header-with-text-cta-button-and-image-on-the-left/
+#: https://wordpress.org/patterns/pattern/fullwidth-about-us-design-with-title-description-button-and-right-image/
+#: https://wordpress.org/patterns/pattern/header-text-with-2x-cta-buttons-and-image/
+#: https://wordpress.org/patterns/pattern/image-with-description-on-the-bottom-right/
+msgid "Content…"
+msgstr "內容..."
