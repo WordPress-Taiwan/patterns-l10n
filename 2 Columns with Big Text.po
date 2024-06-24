@@ -1,0 +1,131 @@
+# Translation of Patterns - Patterns in Chinese (Taiwan)
+# This file is distributed under the same license as the Patterns - Patterns package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Patterns - Patterns\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-06-24 21:10+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.4.4\n"
+
+#. Found in the '2 Columns with Big Text' pattern.
+#: https://wordpress.org/patterns/pattern/2-columns-with-big-text/
+msgid "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim."
+msgstr "道可道，非常道。名可名，非常名。無名天地之始；有名萬物之母。故常無欲，以觀其妙；常有欲，以觀其徼。此兩者，同出而異名，同謂之玄。玄之又玄，衆妙之門。"
+
+#. Found in the '2 Columns with Big Text' pattern.
+#: https://wordpress.org/patterns/pattern/2-columns-with-big-text/
+msgid "Headline of the Section"
+msgstr "區段標題"
+
+#. Found in the '2 Columns with Big Text' pattern.
+#: https://wordpress.org/patterns/pattern/2-columns-with-big-text/
+msgid "big"
+msgstr "大型"
+
+#. Found in the '2 Columns with Big Text' pattern.
+#: https://wordpress.org/patterns/pattern/2-columns-with-big-text/
+msgid "2 Columns with a Heading and Button and Big Description text with Social Icons."
+msgstr "附有標題、按鈕以及大型敘述文字社交圖示的 2 欄版面配置"
+
+#. Found in the '2 Columns with Big Text' pattern.
+#: https://wordpress.org/patterns/pattern/2-columns-with-big-text/
+msgid "2 Columns with Big Text"
+msgstr "包含大型文字的 2 欄文字版面配置"
+
+#. Found in the 'Our Team, People' pattern.
+#: https://wordpress.org/patterns/pattern/our-team-people/
+#: https://wordpress.org/patterns/pattern/2-columns-with-big-text/
+#: https://wordpress.org/patterns/pattern/footer-with-logo-links-address-and-social/
+#: https://wordpress.org/patterns/pattern/team-section-with-cta-buttons-social-and-text/
+#: https://wordpress.org/patterns/pattern/profile-page-with-links/
+msgid "social"
+msgstr "社交網路服務"
+
+#. Found in the 'Two Columns info cards with image, heading, text and button'
+#. pattern.
+#: https://wordpress.org/patterns/pattern/two-columns/
+#: https://wordpress.org/patterns/pattern/pricing-plan-2/
+#: https://wordpress.org/patterns/pattern/get-in-touch/
+#: https://wordpress.org/patterns/pattern/cta-narrow-2-buttons-1/
+#: https://wordpress.org/patterns/pattern/grow-your-business/
+#: https://wordpress.org/patterns/pattern/features-listing/
+#: https://wordpress.org/patterns/pattern/button-pattern/
+#: https://wordpress.org/patterns/pattern/2-columns-with-big-text/
+#: https://wordpress.org/patterns/pattern/inverted-header/
+#: https://wordpress.org/patterns/pattern/business-solution/
+#: https://wordpress.org/patterns/pattern/two-columns-with-background-image-and-content/
+#: https://wordpress.org/patterns/pattern/call-to-action-with-cover-and-button-gradient/
+#: https://wordpress.org/patterns/pattern/about-section-with-stats-number-image-and-button/
+#: https://wordpress.org/patterns/pattern/call-to-action-for-contact-us-overlap-button/
+#: https://wordpress.org/patterns/pattern/hero-section-with-overlap-image-and-rounded-border/
+msgid "Button"
+msgstr "按鈕"
+
+#. Found in the 'Project Details' pattern.
+#: https://wordpress.org/patterns/pattern/project-details/
+#: https://wordpress.org/patterns/pattern/responsive-stylish-3-columns-pricing-table/
+#: https://wordpress.org/patterns/pattern/pricing-table-22/
+#: https://wordpress.org/patterns/pattern/articles-posts-news-blogs/
+#: https://wordpress.org/patterns/pattern/service-section-4/
+#: https://wordpress.org/patterns/pattern/multi-columns-layout/
+#: https://wordpress.org/patterns/pattern/service-section-with-five-columns/
+#: https://wordpress.org/patterns/pattern/food-menu-items/
+#: https://wordpress.org/patterns/pattern/featured-section-3/
+#: https://wordpress.org/patterns/pattern/dashboard-layout/
+#: https://wordpress.org/patterns/pattern/full-width-pricing-plan/
+#: https://wordpress.org/patterns/pattern/introduction-section-2/
+#: https://wordpress.org/patterns/pattern/creative-layout/
+#: https://wordpress.org/patterns/pattern/simple-footer-2/
+#: https://wordpress.org/patterns/pattern/stylish-footer/
+#: https://wordpress.org/patterns/pattern/footer-section-5/
+#: https://wordpress.org/patterns/pattern/what-we-do-3/
+#: https://wordpress.org/patterns/pattern/rounded-services-in-3-columns/
+#: https://wordpress.org/patterns/pattern/fullscreen-cover-image-gallery/
+#: https://wordpress.org/patterns/pattern/profile-design-section/
+#: https://wordpress.org/patterns/pattern/ecommerce-featured-category-banner/
+#: https://wordpress.org/patterns/pattern/product-features-card-layout-with-title-and-subtitle/
+#: https://wordpress.org/patterns/pattern/blog-posts-with-the-featured-images-heading-and-call-to-action-button-collection-1/
+#: https://wordpress.org/patterns/pattern/gallery-grid-with-info/
+#: https://wordpress.org/patterns/pattern/service-section-three-columns-design-with-single-item/
+#: https://wordpress.org/patterns/pattern/introduction-light-with-button-image/
+#: https://wordpress.org/patterns/pattern/simple-author-box/
+#: https://wordpress.org/patterns/pattern/hero-page/
+#: https://wordpress.org/patterns/pattern/step-by-step-process/
+#: https://wordpress.org/patterns/pattern/my-work-columns/
+#: https://wordpress.org/patterns/pattern/gallery-4/
+#: https://wordpress.org/patterns/pattern/minimalists-services-columns/
+#: https://wordpress.org/patterns/pattern/counter-box/
+#: https://wordpress.org/patterns/pattern/meet-the-team-2/
+#: https://wordpress.org/patterns/pattern/timeline-big-text-list/
+#: https://wordpress.org/patterns/pattern/two-column-cover-block-gallery-with-category-titles/
+#: https://wordpress.org/patterns/pattern/2-columns-with-big-text/
+#: https://wordpress.org/patterns/pattern/featured-columns-teaser/
+#: https://wordpress.org/patterns/pattern/two-quotes-with-image/
+#: https://wordpress.org/patterns/pattern/footer-with-logo-links-address-and-social/
+#: https://wordpress.org/patterns/pattern/team-section-with-cta-buttons-social-and-text/
+#: https://wordpress.org/patterns/pattern/about-section-with-images/
+#: https://wordpress.org/patterns/pattern/header-with-text-cta-button-and-image-on-the-left/
+#: https://wordpress.org/patterns/pattern/header-text-cta-and-image/
+#: https://wordpress.org/patterns/pattern/minimal-three-quotes-statement-pattern/
+#: https://wordpress.org/patterns/pattern/minimal-section-for-list-items/
+#: https://wordpress.org/patterns/pattern/pricing-table-2/
+#: https://wordpress.org/patterns/pattern/cascading-page-intro-section-with-cut-off-parallax-background-effect-social-icons-and-a-button/
+#: https://wordpress.org/patterns/pattern/section-with-background-and-columns/
+#: https://wordpress.org/patterns/pattern/gallery-2/
+#: https://wordpress.org/patterns/pattern/grid-gallery/
+#: https://wordpress.org/patterns/pattern/poster-gallery/
+#: https://wordpress.org/patterns/pattern/hero-2/
+#: https://wordpress.org/patterns/pattern/three-pricing-columns-with-middle-one-featured/
+#: https://wordpress.org/patterns/pattern/team-column-grid/
+#: https://wordpress.org/patterns/pattern/testimonials/
+#: https://wordpress.org/patterns/pattern/cover-with-gradient-effect/
+#: https://wordpress.org/patterns/pattern/testimonial-section/
+msgid "columns"
+msgstr "欄"

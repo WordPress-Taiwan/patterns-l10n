@@ -1,0 +1,41 @@
+# Translation of Patterns - Patterns in Chinese (Taiwan)
+# This file is distributed under the same license as the Patterns - Patterns package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Patterns - Patterns\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2024-06-24 20:19+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.4.4\n"
+
+#. Found in the '3 Column Add to Cart Section' pattern.
+#: https://wordpress.org/patterns/pattern/3-column-add-to-cart-section/
+msgid "200$"
+msgstr "200$"
+
+#. Found in the '3 Column Add to Cart Section' pattern.
+#: https://wordpress.org/patterns/pattern/3-column-add-to-cart-section/
+msgid "House on tree"
+msgstr "樹屋鳥窩"
+
+#. Found in the '3 Column Add to Cart Section' pattern.
+#: https://wordpress.org/patterns/pattern/3-column-add-to-cart-section/
+msgid "3 Column Add to Cart Section"
+msgstr "加入購物車的 3 欄版面配置"
+
+#. Found in the 'Full width Pricing Plan' pattern.
+#: https://wordpress.org/patterns/pattern/full-width-pricing-plan/
+#: https://wordpress.org/patterns/pattern/3-column-add-to-cart-section/
+#: https://wordpress.org/patterns/pattern/product-list-with-add-to-cart-button/
+#: https://wordpress.org/patterns/pattern/themeforest-style-product-list/
+#: https://wordpress.org/patterns/pattern/product-detail-page-with-search-image-and-button/
+#: https://wordpress.org/patterns/pattern/product-feature-section-design-with-single-product-item-and-product-category/
+#: https://wordpress.org/patterns/pattern/header-with-hero-area-navigation-area-hero-area-with-background-image-overlay/
+msgid "Add to cart"
+msgstr "加入購物車"
